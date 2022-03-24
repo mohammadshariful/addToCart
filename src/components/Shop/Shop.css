@@ -1,0 +1,13 @@
+.shop {
+  border: 15px solid rebeccapurple;
+}
+.shop-container {
+  display: flex;
+  justify-content: space-between;
+}
+.producs-container {
+  border: 10px solid red;
+}
+.cart-container {
+  border: 10px solid green;
+}
